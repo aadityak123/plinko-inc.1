@@ -1,0 +1,1 @@
+# plinko-inc.1
